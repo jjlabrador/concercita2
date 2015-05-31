@@ -93,20 +93,6 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>mail</groupId>
-      <artifactId>mail</artifactId>
-      <version>1.0</version>
-      <scope>system</scope>
-      <systemPath>${project.basedir}/src/main/resources/mail.jar</systemPath>
-    </dependency>
-    <dependency>
-      <groupId>activation</groupId>
-      <artifactId>activation</artifactId>
-      <version>1.0</version>
-      <scope>system</scope>
-      <systemPath>${project.basedir}/src/main/resources/activation.jar</systemPath>
-    </dependency>
-    <dependency>
       <groupId>org.apache.directory.studio</groupId>
       <artifactId>org.slf4j.api</artifactId>
       <version>1.6.1</version>
